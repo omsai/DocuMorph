@@ -1,5 +1,8 @@
+Contribute
+==========
+
 Development
-===========
+***********
 
 In keeping with the open process, this project's GitHub `issue`_
 tracker is the primary communication medium for enhancing content.
@@ -26,7 +29,7 @@ Requests and Fixes
 As above, |raise_issue|
 
 Credits
-=======
+*******
 
 - The infrastructure of hosting this content, using Sphinx,
   reStructuredText and readthedocs was suggested by David Malcom on

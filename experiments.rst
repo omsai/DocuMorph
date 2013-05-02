@@ -2,6 +2,7 @@ Experiments
 ===========
 
 .. toctree::
+   :maxdepth: 2
 
    /experiments/live-replay
    /experiments/trigger

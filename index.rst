@@ -17,66 +17,8 @@ this handbook.
    :maxdepth: 2
 
    experiments
-
-
-System Setup
-------------
-.. toctree::
-   :maxdepth: 2
-
-   /setup/frappa-calibration
-
-* Mosaic setup
-
-* Crop camera on startup
-
-* Micropoint maintenance poster
-
-* Yokogawa
-
-  * Flip brightfield bypass image
-
-Basic Training
---------------
-.. note:: This section is under construction. <3
-
-
-* Introduction
-
-  * Two reasons to use MetaMorph
-  * Nomenclature
-  * Getting help
-
-* Camera control
-
-  * User interface
-  * Streaming
-
-* Administrator
-
-  * Hardware setup
-  * Taskbars
-  * Multiple users
-
-* Illuminations
-
-* Multidimensional
-  Acquisition (MDA)
-
-* Simple journals
-
-* Guided learning
-  exercises
-
-* Quiz!               
-
-Contribute
-----------
-.. toctree::
-   :maxdepth: 2
-
-   /contribute/index
-   fdl-1.3
+   setup
+   contribute
 
 Permission is granted to copy, distribute, and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3 or
