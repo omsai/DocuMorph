@@ -10,8 +10,6 @@ Streaming with FRAPPA (using Live Replay)
    window.  There is fast diffusion around thin rectangle bleach
    region.
 
-.. contents:: Contents
-
 Introduction
 ************
 
