@@ -20,7 +20,7 @@ this handbook.
 
 
 System Setup
----------
+------------
 .. toctree::
    :maxdepth: 2
 
