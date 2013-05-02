@@ -1,5 +1,5 @@
-Streaming with FRAPPA
-=====================
+Streaming with FRAPPA (using Live Replay)
+=========================================
 
 .. figure:: /images/thumbnails/frappa-live-replay.png
    :figwidth: 25%
@@ -15,13 +15,13 @@ Streaming with FRAPPA
 Introduction
 ************
 
-We can't use Multidimensional Acqusition
-----------------------------------------
+Don't use Multidimensional Acqusition, except for Z
+---------------------------------------------------
 
-MetaMorph's uber powerful Multidimensional Acquisition (MDA) module is
-often not suitable for FRAPPA streaming experiments, because MDA does
-not allow running journals (and thus using the FRAPPA) during a
-stream.  MDA only allows journals to be run at he beginning or end.
+Multidimensional Acquisition is often not suitable for FRAPPA
+streaming experiments, because MDA does not allow running journals
+(and thus using the FRAPPA) during a stream.  MDA only allows journals
+to be run at the beginning or end.
 
 If pre-bleach images are required with minimum delay between FRAP, we
 can instead accomplish this type of experiment using the Live Replay.
