@@ -23,17 +23,17 @@ stream; only at he beginning or end.
 
 .. image:: /images/calibration/mosaic02_setup_roi.png
 
-4. Open the Acquire > Stream Acquisition window.  Make sure "Trigger
+3. Open the Acquire > Stream Acquisition window.  Make sure "Trigger
    components at specific frames" is checked.
 
 .. image:: /images/calibration/mosaic01_stream_setup.png
 
-5. Make sure "Camera State" is Overlapped under the Camear Parameters
+4. Make sure "Camera State" is Overlapped under the Camear Parameters
    tab (it will also work Non-Overlapped, but won't be as fast).
 
 .. image:: /images/calibration/mosaic04_stream_setup.png
 
-6. Click on the Trigger tab:
+5. Click on the Trigger tab:
 
   a. Make sure the Component is set to "Photonic Instruments Mosaic
      Mask" and the Position to "Pulse".
@@ -43,4 +43,4 @@ stream; only at he beginning or end.
 
 .. image:: /images/calibration/mosaic03_stream_setup.png
 
-8. Click "Acquire".
+6. Click "Acquire".
