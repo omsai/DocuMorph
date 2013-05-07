@@ -41,6 +41,6 @@ stream; only at he beginning or end.
   b. Set the trigger time point to pulse the Mosaic and add the
      "Trigger move".
 
-.. image:: /images/calibration/mosaic04_stream_setup.png
+.. image:: /images/calibration/mosaic03_stream_setup.png
 
 8. Click "Acquire".
